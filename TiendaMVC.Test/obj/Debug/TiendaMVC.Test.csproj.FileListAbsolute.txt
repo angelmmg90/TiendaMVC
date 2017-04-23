@@ -1,0 +1,28 @@
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.dll.config
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.csprojResolveAssemblyReference.cache
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.dll.config
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\TiendaMVC.Test.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.csprojResolveAssemblyReference.cache
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Test\obj\Debug\TiendaMVC.Test.pdb

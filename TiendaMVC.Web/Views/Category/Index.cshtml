@@ -1,0 +1,72 @@
+﻿@model IEnumerable<TiendaMVC.Web.Models.CategoryViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table id="table" class="display" width="100%" cellspacing="0">
+  <thead>
+      <tr>
+          <th>Name</th>
+          <th>Parent</th>
+          <th></th>
+      </tr>
+  </thead>
+    <tfoot>
+        <tr>
+            <th>Name</th>
+            <th>Parent</th>
+            <th></th>
+        </tr>    
+    </tfoot>
+</table>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jquery")
+    <script type="text/javascript" src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+    <script type="text/javascript">
+    $("#table").DataTable({
+        "processing": true, // for show progress bar
+        "serverSide": true, // for process server side
+        "filter": true, // this is for disable filter (search box)
+        "orderMulti": false, // for disable multiple column at once
+        "ajax": {
+            "url": '@Url.Action("GetData")',
+            "type": "POST",
+            "datatype": "json"
+        },
+        "language": { "url": "//cdn.datatables.net/plug-ins/1.10.13/i18n/Spanish.json" },
+        "columnDefs": [{
+            "targets": 0,
+            "data": "Name",
+            "render": function (data, type, row) {
+                return '<a href="@Url.Action("Edit")/' + row.Id + '">' + name + '</a>';
+                }
+            }],
+            "columns": [
+                { "data": "Name", "Name": "Name", "autowidth": true },
+                { "data": "Parent", "Parent": "Parent", "autowidth": true },
+
+            ],
+            "columnDefs": [{
+                "targets": 2,
+                "data": "Name",
+                "render": function (data, type, row) {
+                    return '<a href="@Url.Action("Delete")/' + row.Id + '"> Eliminar </a>';
+                }
+            }]
+
+        });
+    </script>
+}
+
+

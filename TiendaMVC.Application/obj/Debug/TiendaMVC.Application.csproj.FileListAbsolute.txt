@@ -1,0 +1,103 @@
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.dll.config
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.CORE.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.IFR.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Web.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Mvc.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Optimization.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Owin.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.DAL.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Razor.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.CORE.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.IFR.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Web.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Mvc.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Optimization.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.DAL.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Razor.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.csprojResolveAssemblyReference.cache
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.dll.config
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Application.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.CORE.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.IFR.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Web.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\WebActivatorEx.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Mvc.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Optimization.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Owin.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\AutoMapper.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.DAL.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Razor.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.CORE.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.IFR.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.Web.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Mvc.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Optimization.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\AutoMapper.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\TiendaMVC.DAL.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.Razor.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.csprojResolveAssemblyReference.cache
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\obj\Debug\TiendaMVC.Application.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\log4net.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.Application\bin\Debug\log4net.xml

@@ -1,0 +1,53 @@
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.dll.config
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.CORE.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.IFR.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.CORE.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.IFR.pdb
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.csprojResolveAssemblyReference.cache
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.dll
+C:\Users\A3\Desktop\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.dll.config
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.DAL.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.CORE.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.IFR.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\WebActivatorEx.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.CORE.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\TiendaMVC.IFR.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.csprojResolveAssemblyReference.cache
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.Migrations.InitialCreate.resources
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.Migrations.updatefields.resources
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.csproj.GenerateResource.Cache
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.pdb
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\log4net.dll
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\bin\Debug\log4net.xml
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.Migrations.UpdateTax.resources
+C:\Users\TJ100-VAIO\Dropbox\SEAS\3º TIE\Sistemas Informáticos II\TiendaMVC\TiendaMVC.DAL\obj\Debug\TiendaMVC.DAL.Migrations.UpdateProductsandTax.resources
